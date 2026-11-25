@@ -1,4 +1,4 @@
-﻿# Splinterlands Gods - Online Multiplayer Web3 NFT Card Game
+﻿# Online Multiplayer Web3 NFT Card Game
 ![Gameplay](./ad.jpg)
 
 ## Run the client-only demo
